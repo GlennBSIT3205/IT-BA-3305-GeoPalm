@@ -1,4 +1,6 @@
-# Ionic ecommerce app UI
+# GeoPalm
+![mainheader]Logo/BRAND.png
+
 
 ## Pages Included
 
