@@ -9,7 +9,7 @@
   
  <h3> Objectives and Purpose </h3> <i class="fa-solid fa-1"></i>
   <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; 1. To enable sellers to manage the following:
-    a. Create an account for secure transactions
+    <p align=justify> &nbsp;&nbsp; a. Create an account for secure transactions
     b. Sell their products
     c. View recent transactions
  
