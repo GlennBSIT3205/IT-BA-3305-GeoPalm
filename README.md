@@ -1,6 +1,7 @@
-# GeoPalm
-![mainheader]Logo/BRAND.png
 
+                            # GeoPalm
+
+A brief description of what this project does and who it's for
 
 ## Pages Included
 
