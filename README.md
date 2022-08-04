@@ -1,4 +1,4 @@
-# GeoPalm: Effiency at the Palm of your hands
+<h2 align="center"> GeoPalm: Effiency at the Palm of your hands
 ![header](https://github.com/GlennBSIT3205/IT-BA-3305-GeoPalm/blob/e4060c34985e9d4ff3ecd2bf745286acdf25b58d/Logo/BRAND.png)
   
 <h3> Introduction </h3> <i class="fa-solid fa-1"></i>
