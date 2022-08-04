@@ -3,8 +3,7 @@
   
 <h3> Introduction </h3> <i class="fa-solid fa-1"></i>
 <p align=justify>
-&nbsp;&nbsp;&nbsp;&nbsp; The rapid development of information technology has now spread into almost every field, including education, daily life, business, health, transportation, and so on. They have improved the ability to exchange knowledge and have accelerated the flow of information and communication. Attending events is something that many people enjoy. And these events are already coping with what technology has to offer now.
-
+&nbsp;&nbsp;&nbsp;&nbsp; Marketplaces play a vital role in transactions which makes the exchange and trade of information, commodities, services, and payments, wherein the customers, vendors, and market intermediaries can get enormous benefits. Furthermore, marketplaces are fascinated by the interaction between buyers, sellers, and intermediaries, which is limited to the planning stage of goods transformation. However, traditional marketplaces, on the other hand, having the traditional way of marketing could encounter risks and the possible costs that may consider in marketing that may give an impact through businesses and as well as for the customers.
 ## Pages Included
 
 1. Welcome Screen
