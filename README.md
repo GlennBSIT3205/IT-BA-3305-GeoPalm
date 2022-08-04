@@ -16,7 +16,10 @@
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Create an account for secure transactions
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Select their desired product
     <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Manage their order
+    
       
+ <h3>Significance of the Study</h3> <i class="fa-solid fa-1"></i>
+ <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; This study is made with the aim to provide a quality service and reduce the workload for both vendors and customers. The researcher needs to install the software needed for developing the app and the possible UI design that will make the users feel comfortable when using the app. It can perform more accurately since it is a computer based system. And through the use of this system offers advantages and benefits such as having convenience and good service as they can order online right from the comforts of their home, low cost for operations and labors wherein you can organize your products more cheaper rather than the traditional way wherein they hire people for transporting their product to their respective places in the market and as well as for monthly cost for rental space in marketplace. Through this advantages the vendors will benefit wherein it can save money and increase profits and as well as the customers were able to order products online with convenience.
  
   
   
